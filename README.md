@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 🌱 Some of my projects can be viewed: <br>
 - on YouTube: https://www.youtube.com/channel/UCAjKbeXbmhpqT4vIxAa5yJw, or <br>
 - on my sites <br>
-📫 How to reach me: <a href="https://www.linkedin.com/in/justcris/">LinkedIn</a><br>
+
