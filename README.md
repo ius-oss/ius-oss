@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 🌱 Some of my projects can be viewed: <br>
 - on YouTube: https://www.youtube.com/channel/UCAjKbeXbmhpqT4vIxAa5yJw, or <br>
 - on my sites <br>
-📫 How to reach me: </svg>![linkedin](https://github.com/ius-oss/ius-oss/assets/53310387/cd340f0d-7004-437a-9056-d49fb135ce14)<br>
+📫 How to reach me: <a href="https://www.linkedin.com/in/justcris/"></svg>![linkedin](https://github.com/ius-oss/ius-oss/assets/53310387/cd340f0d-7004-437a-9056-d49fb135ce14) </a><br>
