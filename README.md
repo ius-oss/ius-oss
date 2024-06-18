@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ![work-computer](https://github.com/ius-oss/ius-oss/assets/53310387/e9e302b4-fb62-46df-a35e-a5169a05adef)
 
-🔭 I’m currently working and learning on Game Development, in GoDot, UE and Unity. <br>
+🔭 I’m currently working and learning on Game Development, in GoDot, Unity and UE. <br>
 🌱 Some of my projects can be viewed: <br>
 - on YouTube: https://www.youtube.com/channel/UCAjKbeXbmhpqT4vIxAa5yJw, or <br>
 - on my sites <br>
